@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46a5fb2b-26da-4d0f-9e4b-3680b48f0f2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UT10K8GVwov1fsYHAbgNGVagxn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hellokoding.auth.WebApplication" />
+      <module name="springboot-registration-login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hellokoding.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46a5fb2b-26da-4d0f-9e4b-3680b48f0f2b" name="Default Changelist" comment="" />
+      <created>1575365546959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575365546959</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1575370462701">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.27.1366.706@0.27.1366.706" timestamp="1575370462701" />
+    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1575370462700">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.center/0.27.1366.706@0.27.1366.706" timestamp="1575370462700" />
+    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1575370462699">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.left/0.27.1366.706@0.27.1366.706" timestamp="1575370462699" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1575370462701">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.right/0.27.1366.706@0.27.1366.706" timestamp="1575370462701" />
+    <state x="347" y="25" width="670" height="676" key="search.everywhere.popup" timestamp="1575370168101">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state x="347" y="25" width="670" height="676" key="search.everywhere.popup/0.27.1366.706@0.27.1366.706" timestamp="1575370168101" />
+  </component>
+</project>
